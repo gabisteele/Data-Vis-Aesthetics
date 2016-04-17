@@ -3,4 +3,4 @@
 - Earthquakes Visualization 
 - 10 UNDP Goals
 - Mapping Earthquakes Visualization
-#### Capital Punishment Visualization
+- Capital Punishment Visualization
